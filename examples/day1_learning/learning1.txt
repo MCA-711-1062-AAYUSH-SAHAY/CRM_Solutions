@@ -1,0 +1,7 @@
+step 1 : update your termux.
+step 2 install python
+step 3 install flask.
+
+step 4 make the code for the crm_server (demo version) for the termux.
+
+
