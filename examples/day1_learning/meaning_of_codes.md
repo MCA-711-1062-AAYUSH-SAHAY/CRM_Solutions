@@ -1,3 +1,5 @@
+
+<img width="1536" height="1024" alt="adeb88d4-c85c-41ef-968c-f2996f490313" src="https://github.com/user-attachments/assets/ee37f4d5-1e06-4688-b3d3-9e5a2ef2319e" /><br/>
 ### Line-by-line meaning
 
 ```python
